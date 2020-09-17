@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9703d3b-95a9-476f-ab5a-7837959f961b" name="Default Changelist" comment="HW1">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hwassignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/hwassignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hORj5HAhGB2IE7ymE3nFaqcBPH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9703d3b-95a9-476f-ab5a-7837959f961b" name="Default Changelist" comment="" />
+      <created>1599880283705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599880283705</updated>
+      <workItem from="1599880285246" duration="4016000" />
+      <workItem from="1599890411300" duration="4899000" />
+      <workItem from="1600357866364" duration="39000" />
+      <workItem from="1600357971355" duration="1900000" />
+      <workItem from="1600366916834" duration="68000" />
+      <workItem from="1600367549523" duration="808000" />
+    </task>
+    <task id="LOCAL-00001" summary="HW1">
+      <created>1599883215432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599883215432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="126" key="#Deployment" timestamp="1600367577674">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="552" y="126" key="#Deployment/0.0.1536.864@0.0.1536.864" timestamp="1600367577674" />
+    <state x="0" y="155" key="#SSH_Configurations" timestamp="1600367576341">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="155" key="#SSH_Configurations/0.0.1536.864@0.0.1536.864" timestamp="1600367576341" />
+    <state x="524" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599882718231">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1599882718231" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1599883106292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599883106292" />
+    <state x="626" y="330" width="284" height="259" key="Github.ShareDialog" timestamp="1599883251210">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="626" y="330" width="284" height="259" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1599883251210" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600368348540">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600368348540" />
+    <state x="845" y="198" key="ftp.server.browser" timestamp="1599880991379">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="845" y="198" key="ftp.server.browser/0.0.1536.864@0.0.1536.864" timestamp="1599880991379" />
+  </component>
+</project>
